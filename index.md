@@ -4,4 +4,4 @@ This Matlab code is able to find Email addresses and phone numbers on pictures o
 More detailed information can be found in the report.
 
 ## Example Output
-![alt text](Report/frontPageReport.jpg?raw=true)
+![alt text](frontPageReport.jpg?raw=true)
